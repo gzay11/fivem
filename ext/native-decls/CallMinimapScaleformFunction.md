@@ -2,8 +2,7 @@
 ns: CFX
 apiset: client
 ---
-## CALL_MINIMAP_SCALEFORM_FUNCTION
-
+## CALL_MINIMAP_SCALEFORM_FUNCTIONisiah
 ```c
 BOOL CALL_MINIMAP_SCALEFORM_FUNCTION(int miniMap, char* fnName);
 ```
